@@ -10,31 +10,31 @@ Bloody Defense is a 2D Role-Playing Mobile Game that takes place in the human bo
 
 The main ui simulates the real life human body's biological composition and each type of blood cell's designated role and position.
 
-![UI Image](/docs/main_ui.png)
+![UI Image](/docs/main_ui.jpg)
 
 ### Neutrophil
 
 A sword hero that slices evil apart with his trusted sword.
 
-![Neutro Image](/docs/gameplay_neutrophil.png)
+![Neutro Image](/docs/gameplay_neutrophil.jpg)
 
 ### Macrophage
 
 A tank hero that swallows all evils beings.
 
-![Macrophage Image](/docs/gameplay_macrophage.png)
+![Macrophage Image](/docs/gameplay_macrophage.jpg)
 
 ### Killer B Cell
 
 A range hero that shoots antibodies at the enemies
 
-![Killer B Image](/docs/gameplay_killer.jpg.png)
+![Killer B Image](/docs/gameplay_killer.jpg)
 
 ### Helper T Cell
 
 A support hero that activates other allies and healing them
 
-![Macrophage Image](/docs/gameplay_helper.jpg.png)
+![Macrophage Image](/docs/gameplay_helper.jpg)
 
 ## Todo
 
