@@ -16,13 +16,13 @@ The main ui simulates the real life human body's biological composition and each
 
 A sword hero that slices evil apart with his trusted sword.
 
-![Neutro Image](/docs/gameplay_neutrophil.jpg)
+![Neutro Image](/docs/gameplay_neutro.jpg)
 
 ### Macrophage
 
 A tank hero that swallows all evils beings.
 
-![Macrophage Image](/docs/gameplay_macrophage.jpg)
+![Macrophage Image](/docs/gameplay_macro.jpg)
 
 ### Killer B Cell
 
