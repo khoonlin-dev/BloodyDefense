@@ -1,0 +1,16 @@
+sceneSetups:
+- path: Assets/Campaign_Menu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Main_Menu.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Loading_Screen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Character_Selection.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Battleground_Scene.unity
+  isLoaded: 1
+  isActive: 0
